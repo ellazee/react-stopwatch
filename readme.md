@@ -1,5 +1,7 @@
 #React Stopwatch
 
+Ella's codepen: https://github.com/ellazee/react-stopwatch.git
+
 Let's build a stopwatch using React. Feel free to use the Codepen starter template and fork it.
 
 http://codepen.io/bhague1281/pen/JXEaeK
